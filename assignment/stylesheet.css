@@ -1,6 +1,11 @@
 header{
-    background-color: pink;
+    background-color: rgb(181, 181, 181);
 }
  .info h2{
-    background-color: blueviolet;
+    background-color: rgb(228, 171, 217);
+    text-align: center;
+ }
+ .info h3{
+    background-color: rgb(228, 154, 89);
+    text-align: center;
  }
